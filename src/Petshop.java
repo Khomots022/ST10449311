@@ -31,7 +31,7 @@ public class Petshop
             
             vetclass get = new vetclass("pol", 26, 82);
             get.displayInfo();
-            
+            //o boile shebe maburna
             
     }
     
